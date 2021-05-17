@@ -1,0 +1,16 @@
+{
+    "levels":[
+        {
+            "namaLevel": "STARTER",
+            "namaChannel": "TestCenel245",
+            "Uang": 342000,
+            "subscriber": 0,
+            "TingkatChannel": 0,
+            "viewersCountry":{
+                "Indonesia":23,
+                "Amerika":7,
+                "Arab":1
+            }
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+def mulai():
+    print("Pretttttttttttttttttttttttt.....................")
